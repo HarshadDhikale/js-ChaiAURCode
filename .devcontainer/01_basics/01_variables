@@ -1,0 +1,6 @@
+const accountId = 251;
+let accountEmail = "xyz@xyz.com";
+var accountPassword = "123456";
+accountSetting= "Jaipur"; 
+
+console.table([accountEmail, accountPassword, accountSetting])
